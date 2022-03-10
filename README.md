@@ -1,4 +1,4 @@
-# Stochastic Boundary Ordinary Differential Equation (STRODE)
+# When Neural ODE meets a sampling-free latent point process
 This is the authors' official PyTorch implementation for STRODE. This repo contains code for experiments in the **ICML 2021** paper '[Stochastic Boundary Ordinary Differential Equation]()'.
 
 ## Project Description
